@@ -14,15 +14,15 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Get Started A",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "indexA",
+              "quickstartA",
+              "developmentA"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Essentials A",
             "pages": [
               "essentials/markdown",
               "essentials/code",

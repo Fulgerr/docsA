@@ -12,7 +12,7 @@
   },
   "navigation": [
     {
-      "group": "Welcome",
+      "group": "Welcome A",
       "pages": [
         "index.mdx" 
       ]
